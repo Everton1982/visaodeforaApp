@@ -26,11 +26,11 @@
 
 # Dependencias do App
 
-## Node JS
-## NPM ou Yarn
-## Expo
-## Axios
-## Galio - https://galio.io/
+### Node JS
+### NPM ou Yarn
+### Expo
+### Axios
+### Galio - https://galio.io/
 
 # Como rodar o App
 
