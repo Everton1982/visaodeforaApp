@@ -24,7 +24,7 @@
 
 <p>Os componentes usados na interface do app são do framework Galio - https://galio.io/.
 
-# Dependencias do App
+# Dependências do App
 
 ### Node JS
 ### NPM ou Yarn
