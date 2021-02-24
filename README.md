@@ -2,9 +2,9 @@
 
 <p>O app tem como principal foco criar uma dinânica entre as pessoas de forma que <br /> uma pode comentar sobre o que vê de fora a outra pessoa seja um familiar, <br /> amigo, colega de trabalho e assim por diante.<br />
 
-<p>O foco não é causar entrigas entre as pessoas e sim criar um diálogo entre elas <br /> de forma saudável e fazendo das críticas construtivas uma forma de cada <br /> um aperfeiçoar suas açoes de um modo geral e melhorar seu lado comportamental.<br />
+<p>O foco não é causar entrigas entre as pessoas e sim criar um diálogo entre elas <br /> de forma saudável e fazendo das críticas construtivas uma forma de cada <br /> um aperfeiçoar suas ações de um modo geral e melhorar seu lado comportamental.<br />
 
-<p>O app funciona como uma rede social, podendo interagir com os usuários de forma amigavel.<br />
+<p>O app funciona como uma mini rede social, podendo interagir com os usuários de forma amigável.<br />
 
 # Tecnologias utilizadas no desenvolvimento da interface e banco de dados
 
