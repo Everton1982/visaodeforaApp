@@ -42,6 +42,6 @@
 
 Pronto! Agora é só ver na sua máquina ele rodando.
 
-# Este App em breve estará diponível na Play store graruitamente
+# Este App estará diponível em breve na Play store graruitamente
 
 
