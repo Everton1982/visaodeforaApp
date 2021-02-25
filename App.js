@@ -1,30 +1,39 @@
 /**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
  * @format
  * @flow strict-local
  */
 
 import React from 'react';
-import {
-  View,
-  Text
-} from 'react-native';
+import { StyleSheet, View, Text, ImageBackground } from 'react-native';
+// import { Text } from 'galio-framework';
 
-import {
-  Header,
-  LearnMoreLinks,
-  Colors,
-  DebugInstructions,
-  ReloadInstructions,
-} from 'react-native/Libraries/NewAppScreen';
+const image = { uri: "https://devfrontend.com.br/img_vdf/refletindo.jpg" };
 
-const App = () => {
-  return (
-    <View>
-      <Text>Visão de fora</Text>
-    </View>
-  )
-}
+const App = () => (
+  <View style={styles.container}>
+    <ImageBackground source={image} style={styles.image}>
+      <Text style={styles.text}>Visão de fora</Text>
+    </ImageBackground>
+  </View>
+);
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    flexDirection: "column"
+  },
+  image: {
+    flex: 1,
+    resizeMode: "cover",
+    justifyContent: "center"
+  },
+  text: {
+    color: "white",
+    fontSize: 42,
+    fontWeight: "bold",
+    textAlign: "center"
+  }
+});
+
+
 export default App;
