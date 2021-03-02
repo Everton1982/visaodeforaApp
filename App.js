@@ -4,15 +4,15 @@
  */
 
 import React from 'react';
-import { StyleSheet, View, Text, ImageBackground } from 'react-native';
-// import { Text } from 'galio-framework';
+import { StyleSheet, View, ImageBackground } from 'react-native';
+import * as Animatable from 'react-native-animatable';
 
 const image = { uri: "https://devfrontend.com.br/img_vdf/refletindo.jpg" };
 
 const App = () => (
   <View style={styles.container}>
     <ImageBackground source={image} style={styles.image}>
-      <Text style={styles.text}>Visão de fora</Text>
+      <Animatable.Text animation="zoomInUp" style={styles.text}>Visão de fora</Animatable.Text>
     </ImageBackground>
   </View>
 );
