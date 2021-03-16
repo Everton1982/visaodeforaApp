@@ -1,4 +1,15 @@
 {
-  "name": "visaodeforaApp",
-  "displayName": "visaodeforaApp"
+  "expo": {
+    "name": "Visao de fora",
+    "version": "1.0.0",
+    "slug": "visao-de-fora",
+    "ios": {
+      "bundleIdentifier": "com.alldevelopers.visaodefora",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.alldevelopers.visaodefora",
+      "versionCode": 1
+    }
+  }
 }
